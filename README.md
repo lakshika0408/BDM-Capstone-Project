@@ -3,7 +3,6 @@
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?logo=microsoft-excel&logoColor=white)
-![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 ![Data](https://img.shields.io/badge/Data-Primary%20%7C%20Handwritten%20Notebook-orange)
 
 ---
