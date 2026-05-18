@@ -36,7 +36,7 @@ Mr. Pizza is run entirely by one person — Mr. Prakash Singh Danu. No software,
 
 ## Tools
 
-Excel (VLOOKUP, SUMPRODUCT, SUMIF, nested IF) · Python (Matplotlib, NumPy)
+Excel (VLOOKUP, SUMPRODUCT, SUMIF, nested IF)
 
 
 
